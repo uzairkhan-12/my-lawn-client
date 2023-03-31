@@ -1,0 +1,6 @@
+export const GET_SERVICES='GET_SERVICES'
+export const ADD_SERVICE='ADD_SERVICE'
+export const SET_ERROR='SET_ERROR'
+export const REMOVE_ERROR='REMOVER_ERROR'
+export const GET_PACKAGES="GET_PACKAGES"
+export const ADD_PACKAGE="ADD_PACKAGE"
